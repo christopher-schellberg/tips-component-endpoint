@@ -28,7 +28,18 @@
 		"tweetRetweetIncrease": 6,
 		"tweetRetweetPrevious": 1,
 		"tweetRetweetWow": 0,
-		"triggers": [],
+		"triggers": {
+		  "flwrImpressions": "",
+		  "reportDateFrom": "",
+		  "reportDateEnd": "",
+		  "repName": "",
+		  "repEmail": "",
+		  "triggers": [
+        "trigger1",
+        "trigger3",
+        "trigger5"
+      ]
+		},
 		"whoToFollow": [{
 				"candidateId": 921073565289529346,
 				"score": 0.0123,
@@ -87,7 +98,7 @@
 		"tweetRetweetIncrease": 6,
 		"tweetRetweetPrevious": 1,
 		"tweetRetweetWow": 0,
-		"triggers": [],
+		"triggers": {},
 		"whoToFollow": [{
 				"candidateId": 921073565289529346,
 				"score": 0.0123,
@@ -146,7 +157,7 @@
 		"tweetRetweetIncrease": 6,
 		"tweetRetweetPrevious": 1,
 		"tweetRetweetWow": 0,
-		"triggers": [],
+		"triggers": {},
 		"whoToFollow": [{
 				"candidateId": 921073565289529346,
 				"score": 0.0123,
@@ -205,7 +216,7 @@
 		"tweetRetweetIncrease": 6,
 		"tweetRetweetPrevious": 1,
 		"tweetRetweetWow": 0,
-		"triggers": [],
+		"triggers": {},
 		"whoToFollow": [{
 				"candidateId": 921073565289529346,
 				"score": 0.0123,
@@ -264,7 +275,7 @@
 		"tweetRetweetIncrease": 6,
 		"tweetRetweetPrevious": 1,
 		"tweetRetweetWow": 0,
-		"triggers": [],
+		"triggers": {},
 		"whoToFollow": [{
 				"candidateId": 921073565289529346,
 				"score": 0.0123,
@@ -323,7 +334,7 @@
 		"tweetRetweetIncrease": 6,
 		"tweetRetweetPrevious": 1,
 		"tweetRetweetWow": 0,
-		"triggers": [],
+		"triggers": {},
 		"whoToFollow": [{
 				"candidateId": 921073565289529346,
 				"score": 0.0123,
