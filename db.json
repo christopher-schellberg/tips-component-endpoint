@@ -28,7 +28,7 @@
 		"tweetRetweetIncrease": 6,
 		"tweetRetweetPrevious": 1,
 		"tweetRetweetWow": 0,
-		"triggers": {
+		"yamoData": {
 		  "flwrImpressions": "",
 		  "reportDateFrom": "",
 		  "reportDateEnd": "",
@@ -98,7 +98,7 @@
 		"tweetRetweetIncrease": 6,
 		"tweetRetweetPrevious": 1,
 		"tweetRetweetWow": 0,
-		"triggers": {},
+		"yamoData": {},
 		"whoToFollow": [{
 				"candidateId": 921073565289529346,
 				"score": 0.0123,
@@ -157,7 +157,7 @@
 		"tweetRetweetIncrease": 6,
 		"tweetRetweetPrevious": 1,
 		"tweetRetweetWow": 0,
-		"triggers": {},
+		"yamoData": {},
 		"whoToFollow": [{
 				"candidateId": 921073565289529346,
 				"score": 0.0123,
@@ -216,7 +216,7 @@
 		"tweetRetweetIncrease": 6,
 		"tweetRetweetPrevious": 1,
 		"tweetRetweetWow": 0,
-		"triggers": {},
+		"yamoData": {},
 		"whoToFollow": [{
 				"candidateId": 921073565289529346,
 				"score": 0.0123,
@@ -275,7 +275,7 @@
 		"tweetRetweetIncrease": 6,
 		"tweetRetweetPrevious": 1,
 		"tweetRetweetWow": 0,
-		"triggers": {},
+		"yamoData": {},
 		"whoToFollow": [{
 				"candidateId": 921073565289529346,
 				"score": 0.0123,
